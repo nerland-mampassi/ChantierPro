@@ -108,14 +108,4 @@ CHANTIERPRO/
     └── Historique mouvements
 ```
 
----
 
-## 👤 AUTEUR
-
-**Nom :** [Votre nom]  
-**Date :** Avril 2026  
-**Contexte :** Projet de fin d’étude / Développement professionnel / Application interne
-
----
-
-**Voulez-vous que j’adapte cette description pour un public spécifique (recruteur, professeur, client, etc.) ?**
